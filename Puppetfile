@@ -36,3 +36,12 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "osx",        "1.6.0"
+github "pow",        "1.0.0"
+
+github "dropbox",    "1.1.0"
+github "chrome",     "1.1.0"
+github "firefox",    "1.1.1"
+github "skype",      "1.0.2"
+github "macvim_kaoriya", "0.0.1", :repo => "boxelly/puppet-macvim_kaoriya"
