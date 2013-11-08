@@ -6,6 +6,7 @@ class people::mono0x {
   include macvim_kaoriya
 
   include pow
+  include postgresql
 
   package {
     [
