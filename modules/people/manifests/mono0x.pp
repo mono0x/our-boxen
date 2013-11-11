@@ -4,6 +4,8 @@ class people::mono0x {
   include firefox
   include dropbox
   include macvim_kaoriya
+  include virtualbox
+  include vagrant
 
   include pow
   include postgresql
