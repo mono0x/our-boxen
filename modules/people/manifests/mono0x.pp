@@ -12,6 +12,7 @@ class people::mono0x {
     [
       'tmux',
       'htop',
+      'xz',
     ]:
   }
 
